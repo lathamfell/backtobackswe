@@ -1,0 +1,19 @@
+ATTO: 2020-06-02
+Time & Space: 
+Primitives:
+Arrays:
+Strings:
+Linked Lists:
+Stacks & Queues:
+Trees:
+Special Trees:
+Heaps:
+Searching:
+Hashtables:
+Sorting:
+Recursion & Backtracking: 
+Dynamic Programming:
+Greedy Algorithms:
+Graphs:
+Screening:
+Concurrency:
